@@ -36,3 +36,5 @@ then run the initialize script:
 
 Fire up ArchivesSpace as usual. There should now be a reCAPTCHA checkbox
 on request forms.
+
+![reCAPTCHA request form](assets/recaptcha.png)
