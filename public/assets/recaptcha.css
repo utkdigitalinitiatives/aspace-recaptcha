@@ -2,3 +2,8 @@
 .recaptcha_error {
   display: none; 
 }
+
+/* remove list styling for the note */
+.request-additional-notes {
+  list-style-type: none;
+}
